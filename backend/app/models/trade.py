@@ -1,0 +1,1 @@
+#This stores the trades needed for the app 

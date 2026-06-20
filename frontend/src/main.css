@@ -1,0 +1,111 @@
+.header{ 
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+body{
+    margin: 0px;
+}
+
+.logo-section{
+    display: flex;
+    align-items: center;
+}
+
+.menu-bar{
+    background-color: lightpink;
+    flex: 1;
+    position:relative;
+    margin-right: 70px;
+    margin-left: 70px;
+    max-width: 1000px;
+    justify-content: space-evenly;
+}
+
+.signin-and-login-section{
+    background-color: aqua;
+    width: 150px;
+}
+
+.logo{
+    height: 80px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+
+
+.about-div{
+    background-color: burlywood;
+    display: inline;
+    flex: 1;
+    margin-left:100px;
+    margin-right: 40px;
+    min-width: 30px;
+}
+
+.about{
+    font-size: 25px;
+    font:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+.open-invest-div{
+    background-color: aqua;
+    display: inline;
+    flex: 1;
+    margin-left: 40px;
+    margin-right: 30px;
+    min-width: 30px;
+}
+
+.open-invest{
+    font-size: 25px;
+    font:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.dashboard-div{
+    background-color: blueviolet;
+    display: inline;
+    flex: 1;
+    margin-left: 40px;
+    margin-right: 30px;
+    min-width: 30px;
+}
+
+.dashboard{
+    font-size: 25px;
+    font:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.shopping-div{
+    background-color: lightgoldenrodyellow;
+    display: inline;
+    flex: 1;
+    margin-left: 40px;
+    margin-right: 30px;
+    min-width: 30px;
+}
+
+.shopping{
+    font-size: 25px;
+    font:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.forex-div{
+    background-color: lightcoral;
+    display:inline;
+    flex: 1;
+    margin-left: 40px;
+    margin-right: 30px;
+    min-width: 30px;
+}
+
+.forex{
+    font-size: 25px;
+    font:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
